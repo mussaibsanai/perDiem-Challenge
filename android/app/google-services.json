@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "153646901750",
+    "project_id": "perdiem-23a90",
+    "storage_bucket": "perdiem-23a90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153646901750:android:3691db6f9f5182f4c7bfd7",
+        "android_client_info": {
+          "package_name": "com.perdiemchallenge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153646901750-32m1hgdrmevbuvnrtmml637ki4brja7m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.perdiemchallenge",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "153646901750-qm9eiort01ck6kvqacbto0suqlmsfoli.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALP4PMSwn_FiQR4OdY9YSVs0dOXSZrcVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153646901750-pc419kgoi8630uhhd217ukdh9ek1h002.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "153646901750-hii3dhfcmvrp9fngbdeecj3i1qg4fnie.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.perDiemChallenge"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
